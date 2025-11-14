@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/takeshi/src/CUOAPI/cuoapi-1-.csproj": {}
+  },
+  "projects": {
+    "/Users/takeshi/src/CUOAPI/cuoapi-1-.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/takeshi/src/CUOAPI/cuoapi-1-.csproj",
+        "projectName": "cuoapi",
+        "projectPath": "/Users/takeshi/src/CUOAPI/cuoapi-1-.csproj",
+        "packagesPath": "/Users/takeshi/.nuget/packages/",
+        "outputPath": "/Users/takeshi/src/CUOAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/takeshi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net40"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "targetAlias": "net40",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net40": {
+          "targetAlias": "net40",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
