@@ -1,0 +1,7 @@
+/Users/takeshi/src/CUOAPI/bin/Debug/net40/cuoapi.dll
+/Users/takeshi/src/CUOAPI/bin/Debug/net40/cuoapi.pdb
+/Users/takeshi/src/CUOAPI/obj/Debug/net40/cuoapi-1-.GeneratedMSBuildEditorConfig.editorconfig
+/Users/takeshi/src/CUOAPI/obj/Debug/net40/cuoapi-1-.csproj.CoreCompileInputs.cache
+/Users/takeshi/src/CUOAPI/obj/Debug/net40/cuoapi-1-.sourcelink.json
+/Users/takeshi/src/CUOAPI/obj/Debug/net40/cuoapi.dll
+/Users/takeshi/src/CUOAPI/obj/Debug/net40/cuoapi.pdb
